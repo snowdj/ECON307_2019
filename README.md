@@ -1,4 +1,4 @@
-# Course materials for ECON307
+# Course materials for ECON307 Winter 2019
 Not required, but consider
 - Getting a GitHub ID and installing the [GitHub Desktop](https://desktop.github.com/)
 - After installation, choose "Clone or download" and then "Open in Desktop"
@@ -11,7 +11,7 @@ See [Syllabus](syllabus.md) for more details
 1. **January 2nd** -  [Introduction to Modern Macro](/lecture_notes/intro_to_modern_macro.pdf)
 2. **January 4th** - [Math Review](/lecture_notes/math_review.pdf)
 3. **January 8th** - [Asset Pricing and Difference Equations](/lecture_notes/asset_pricing_difference_equations.pdf)
-4. **January 14th** - 
+4. **January 14th** - [Permanent Income Model](/lecture_notes/permanent_income.pdf)
 5. **January 16th** - 
 6. **January 18th** - 
 7. **January 21st** - 
@@ -24,12 +24,12 @@ See [Syllabus](syllabus.md) for more details
 14. **February 6th** - 
 15. **February 8th** - 
 16. **February 11st** - 
-17. **February 13st** - 
-18. **February 15th** - Midterm Review Session
+17. **February 13st** - Midterm Review Session
+18. **February 15th** - Midterm
 19. **February 18th** - Spring Break
 20. **February 20th** - Spring Break
 21. **February 22nd** - Spring Break
-22. **February 25th** - Midterm in Class
+22. **February 25th** - 
 23. **February 27th** - 
 24. **March 1st** - 
 25. **March 4th** - 
@@ -52,4 +52,4 @@ See [Syllabus](syllabus.md) for more details
 2. **Midterm February 25th**
 
 ## Exams
-1. **February 16th** - Midterm
+1. **February 15th** - Midterm
