@@ -13,8 +13,8 @@ See [Syllabus](syllabus.md) for more details
 3. **January 7th** - [Asset Pricing and Difference Equations](/lecture_notes/asset_pricing_difference_equations.pdf)
 3. **January 9th** - [Asset Pricing and Difference Equations](/lecture_notes/asset_pricing_difference_equations.pdf)
 3. **January 11th** - [Permanent Income Model](/lecture_notes/permanent_income.pdf)
-4. **January 14th** - 
-5. **January 16th** - 
+4. **January 14th** - [Permanent Income Model](/lecture_notes/permanent_income.pdf)
+5. **January 16th** - Finish [Permanent Income Model](/lecture_notes/permanent_income.pdf) and start [Markov Chains and Unemployment](/lecture_notes/markov_chains_unemployment.pdf) 
 6. **January 18th** - 
 7. **January 21st** - 
 8. **January 23rd** - 
