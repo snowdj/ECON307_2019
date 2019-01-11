@@ -15,7 +15,7 @@ See [Syllabus](syllabus.md) for more details
 3. **January 11th** - [Permanent Income Model](/lecture_notes/permanent_income.pdf)
 4. **January 14th** - [Permanent Income Model](/lecture_notes/permanent_income.pdf)
 5. **January 16th** - Finish [Permanent Income Model](/lecture_notes/permanent_income.pdf) and start [Markov Chains and Unemployment](/lecture_notes/markov_chains_unemployment.pdf) 
-6. **January 18th** - 
+6. **January 18th** -  Review [Problem Set 1](/problem_sets/problem_set_1.pdf) solutions
 7. **January 21st** - 
 8. **January 23rd** - 
 9. **January 25th** - 
