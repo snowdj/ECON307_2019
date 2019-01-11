@@ -48,8 +48,8 @@ See [Syllabus](syllabus.md) for more details
 38. **April 3rd** - 
 
 ## Problem Sets and Exams
-1. **Due in Class January 9th** - [Problem Set 0](/problem_sets/problem_set_0.pdf)
-2. **Midterm February 25th**
+1. **Due in Class January 11th** - [Problem Set 0](/problem_sets/problem_set_0.pdf)
+2. **Due in Class January 18th** - [Problem Set 1](/problem_sets/problem_set_1.pdf)
 
 ## Exams
 1. **February 15th** - Midterm
