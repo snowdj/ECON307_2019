@@ -16,11 +16,11 @@ See [Syllabus](syllabus.md) for more details
 4. **January 14th** - [Permanent Income Model](/lecture_notes/permanent_income.pdf)
 5. **January 16th** - [Permanent Income Model](/lecture_notes/permanent_income.pdf)
 6. **January 18th** -  Review [Problem Set 1](/problem_sets/problem_set_1.pdf) solutions
-7. **January 21st** - Examples in [Permanent Income Model](/lecture_notes/permanent_income.pdf) and start [Markov Chains and Unemployment](/lecture_notes/markov_chains_unemployment.pdf) 
+7. **January 21st** - Finish review of Problem Set and Examples in [Permanent Income Model](/lecture_notes/permanent_income.pdf)
 8. **January 23rd** - [Markov Chains and Unemployment](/lecture_notes/markov_chains_unemployment.pdf)
-9. **January 25th** - 
-10. **January 28th** - 
-11. **January 30th** - 
+9. **January 25th** - [Markov Chains and Unemployment](/lecture_notes/markov_chains_unemployment.pdf)
+10. **January 28th** - [Stochastic Asset Pricing](/lecture_notes/stochastic_asset_pricing.pdf)
+11. **January 30th** - [Stochastic Asset Pricing](/lecture_notes/stochastic_asset_pricing.pdf)
 12. **February 1st** - 
 13. **February 4th** - 
 14. **February 6th** - 
@@ -52,6 +52,7 @@ See [Syllabus](syllabus.md) for more details
 ## Problem Sets and Exams
 1. **Due in Class January 11th** - [Problem Set 0](/problem_sets/problem_set_0.pdf)
 2. **Due in Class January 18th** - [Problem Set 1](/problem_sets/problem_set_1.pdf)
+2. **Due in Class February 1st** - [Problem Set 2](/problem_sets/problem_set_2.pdf)
 
 ## Exams
 1. **February 15th** - Midterm
