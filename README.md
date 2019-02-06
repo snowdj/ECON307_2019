@@ -20,10 +20,10 @@ See [Syllabus](syllabus.md) for more details
 8. **January 23rd** - [Markov Chains and Unemployment](/lecture_notes/markov_chains_unemployment.pdf)
 9. **January 25th** - [Markov Chains and Unemployment](/lecture_notes/markov_chains_unemployment.pdf)
 10. **January 28th** - [Stochastic Asset Pricing](/lecture_notes/stochastic_asset_pricing.pdf)
-11. **January 30th** - [Stochastic Asset Pricing](/lecture_notes/stochastic_asset_pricing.pdf)
-12. **February 1st** - 
-13. **February 4th** - 
-14. **February 6th** - 
+11. **January 30th** - Review of PS2
+12. **February 1st** - [Stochastic Asset Pricing](/lecture_notes/stochastic_asset_pricing.pdf)
+13. **February 4th** - [Stochastic Permanent Income](/lecture_notes/stochastic_permanent_income.pdf)
+14. **February 6th** - [Stochastic Permanent Income](/lecture_notes/stochastic_permanent_income.pdf)
 15. **February 8th** - 
 16. **February 11st** - 
 17. **February 13st** - Midterm Review Session
