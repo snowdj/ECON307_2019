@@ -31,7 +31,7 @@ See [Syllabus](syllabus.md) for more details
 19. **February 18th** - Spring Break
 20. **February 20th** - Spring Break
 21. **February 22nd** - Spring Break
-22. **February 25th** - [Rational and Adaptive Expectations](/lecture_notes/rational_adaptive_expectations.pdf) and [Sev notes]([Rational and Adaptive Expectations](/lecture_notes/rational_adaptive_expectations.pdf)
+22. **February 25th** - [Rational and Adaptive Expectations](/lecture_notes/rational_adaptive_expectations.pdf) and [Additional Slides](/lecture_notes/rational_adpt_exp.pdf)
 23. **February 27th** - 
 24. **March 1st** - 
 25. **March 4th** - 
