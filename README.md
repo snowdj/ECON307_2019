@@ -32,10 +32,10 @@ See [Syllabus](syllabus.md) for more details
 20. **February 20th** - Spring Break
 21. **February 22nd** - Spring Break
 22. **February 25th** - [Rational and Adaptive Expectations](/lecture_notes/rational_adaptive_expectations.pdf) and [Additional Slides](/lecture_notes/rational_adpt_exp.pdf)
-23. **February 27th** - 
-24. **March 1st** - 
-25. **March 4th** - 
-26. **March 6th** - 
+23. **February 27th** - [Incomplete Markets](/lecture_notes/no_borrowing_dynamic_programming.pdf)
+24. **March 1st** - Finish [Incomplete Markets](/lecture_notes/no_borrowing_dynamic_programming.pdf) and [Search](/lecture_notes/search.pdf)
+25. **March 4th** - Finish [Search](/lecture_notes/search.pdf) and [General Equilibrium](/lecture_notes/general_equilibrium.pdf) 
+26. **March 6th** - [General Equilibrium](/lecture_notes/general_equilibrium.pdf) 
 27. **March 8th** - 
 28. **March 11th** - 
 29. **March 13th** - 
