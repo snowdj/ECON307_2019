@@ -34,9 +34,9 @@ See [Syllabus](syllabus.md) for more details
 22. **February 25th** - [Rational and Adaptive Expectations](/lecture_notes/rational_adaptive_expectations.pdf) and [Additional Slides](/lecture_notes/rational_adpt_exp.pdf)
 23. **February 27th** - [Incomplete Markets](/lecture_notes/no_borrowing_dynamic_programming.pdf)
 24. **March 1st** - Finish [Incomplete Markets](/lecture_notes/no_borrowing_dynamic_programming.pdf) and [Search](/lecture_notes/search.pdf)
-25. **March 4th** - Finish [Search](/lecture_notes/search.pdf) and [General Equilibrium](/lecture_notes/general_equilibrium.pdf) 
+25. **March 4th** - Finish [Search](/lecture_notes/search.pdf)
 26. **March 6th** - [General Equilibrium](/lecture_notes/general_equilibrium.pdf) 
-27. **March 8th** - 
+27. **March 8th** - [General Equilibrium](/lecture_notes/general_equilibrium.pdf) and [Interest Rates](/lecture_notes/interest_rates.pdf) 
 28. **March 11th** - 
 29. **March 13th** - 
 30. **March 15th** - 
@@ -56,3 +56,4 @@ See [Syllabus](syllabus.md) for more details
 4. **Due in Class February 11st** - [Problem Set 3](/problem_sets/problem_set_3.pdf)
 4. **(Not handed in) February 13st** - [Midterm Practice Problems](/problem_sets/midterm_practice_problems.pdf)
 5. **February 15th** - **Midterm** from 12-2pm
+6. **Due in Class March 13th** - [Problem Set 4](/problem_sets/problem_set_4.pdf)
