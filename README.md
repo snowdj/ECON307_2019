@@ -36,8 +36,8 @@ See [Syllabus](syllabus.md) for more details
 24. **March 1st** - Finish [Incomplete Markets](/lecture_notes/no_borrowing_dynamic_programming.pdf) and [Search](/lecture_notes/search.pdf)
 25. **March 4th** - Finish [Search](/lecture_notes/search.pdf)
 26. **March 6th** - [General Equilibrium](/lecture_notes/general_equilibrium.pdf) 
-27. **March 8th** - [General Equilibrium](/lecture_notes/general_equilibrium.pdf) and [Interest Rates](/lecture_notes/interest_rates.pdf) 
-28. **March 11th** - 
+27. **March 8th** - [General Equilibrium](/lecture_notes/general_equilibrium.pdf) 
+28. **March 11th** - [General Equilibrium](/lecture_notes/general_equilibrium.pdf) and [Interest Rates](/lecture_notes/interest_rates.pdf) 
 29. **March 13th** - 
 30. **March 15th** - 
 31. **March 18th** - 
@@ -56,4 +56,4 @@ See [Syllabus](syllabus.md) for more details
 4. **Due in Class February 11st** - [Problem Set 3](/problem_sets/problem_set_3.pdf)
 4. **(Not handed in) February 13st** - [Midterm Practice Problems](/problem_sets/midterm_practice_problems.pdf)
 5. **February 15th** - **Midterm** from 12-2pm
-6. **Due in Class March 13th** - [Problem Set 4](/problem_sets/problem_set_4.pdf)
+6. **Due in Class March 15th** - [Problem Set 4](/problem_sets/problem_set_4.pdf)
