@@ -38,9 +38,9 @@ See [Syllabus](syllabus.md) for more details
 26. **March 6th** - [General Equilibrium](/lecture_notes/general_equilibrium.pdf) 
 27. **March 8th** - [General Equilibrium](/lecture_notes/general_equilibrium.pdf) 
 28. **March 11th** - [General Equilibrium](/lecture_notes/general_equilibrium.pdf) and [Interest Rates](/lecture_notes/interest_rates.pdf) 
-29. **March 13th** - 
-30. **March 15th** - 
-31. **March 18th** - 
+29. **March 13th** - [Interest Rates](/lecture_notes/interest_rates.pdf) 
+30. **March 15th** - Review PS4
+31. **March 18th** - Finish [Interest Rates](/lecture_notes/interest_rates.pdf) and begin [Stochastic Interest Rates](/lecture_notes/stochastic_interest_rates.pdf)
 32. **March 20th** - 
 33. **March 22th** - 
 34. **March 25th** - 
