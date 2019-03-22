@@ -40,11 +40,11 @@ See [Syllabus](syllabus.md) for more details
 28. **March 11th** - [General Equilibrium](/lecture_notes/general_equilibrium.pdf) and [Interest Rates](/lecture_notes/interest_rates.pdf) 
 29. **March 13th** - [Interest Rates](/lecture_notes/interest_rates.pdf) 
 30. **March 15th** - Review PS4
-31. **March 18th** - Finish [Interest Rates](/lecture_notes/interest_rates.pdf) and begin [Stochastic Interest Rates](/lecture_notes/stochastic_interest_rates.pdf)
-32. **March 20th** - 
-33. **March 22th** - 
-34. **March 25th** - 
-35. **March 27th** - 
+31. **March 18th** - Finish PS4 Review and  [Interest Rates](/lecture_notes/interest_rates.pdf)
+32. **March 20th** - [Stochastic Interest Rates](/lecture_notes/stochastic_interest_rates.pdf)
+33. **March 22th** - Finish [Stochastic Interest Rates](/lecture_notes/stochastic_interest_rates.pdf) and begin [Growth](/lecture_notes/growth.pdf)
+34. **March 25th** - More on [Growth](/lecture_notes/growth.pdf)
+35. **March 27th** - [Growth and Fiscal Policy](/lecture_notes/growth_fiscal_policy.pdf)
 36. **March 29th** - 
 37. **April 1st** - 
 38. **April 3rd** - 
