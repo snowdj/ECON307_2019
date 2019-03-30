@@ -45,9 +45,9 @@ See [Syllabus](syllabus.md) for more details
 33. **March 22th** - Finish [Stochastic Interest Rates](/lecture_notes/stochastic_interest_rates.pdf) and begin [Growth](/lecture_notes/growth.pdf)
 34. **March 25th** - More on [Growth](/lecture_notes/growth.pdf)
 35. **March 27th** - [Growth](/lecture_notes/growth.pdf) and [Growth and Fiscal Policy](/lecture_notes/growth_fiscal_policy.pdf)
-36. **March 29th** - Review PS5
+36. **March 29th** - Review [Problem Set 5](/problem_sets/problem_set_5.pdf)
 37. **April 1st** - [Growth and Fiscal Policy](/lecture_notes/growth_fiscal_policy.pdf)
-38. **April 3rd** - [Growth and Fiscal Policy](/lecture_notes/growth_fiscal_policy.pdf) and PS6
+38. **April 3rd** - [Growth and Fiscal Policy](/lecture_notes/growth_fiscal_policy.pdf) and [Problem Set 6](/problem_sets/problem_set_6.pdf)
 
 ## Problem Sets and Exams
 1. **Due in Class January 11th** - [Problem Set 0](/problem_sets/problem_set_0.pdf)
@@ -58,4 +58,5 @@ See [Syllabus](syllabus.md) for more details
 5. **February 15th** - **Midterm** from 12-2pm
 6. **Due in Class March 15th** - [Problem Set 4](/problem_sets/problem_set_4.pdf)
 7. **Due in Class March 29th** - [Problem Set 5](/problem_sets/problem_set_5.pdf)
+8. **(Not handed in) April 3rd** - [Problem Set 6](/problem_sets/problem_set_6.pdf)
 8. **Final Exam April 9th 12-3pm** - [Final Practice Problems](/problem_sets/final_practice_problems.pdf)
